@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
+<hr/>
+
 ### Skills
 ##### Languages
 <p align="left">
@@ -61,7 +63,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original-wordmark.svg" alt="typescript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="typescript" width="40" height="40"/>
 </p>
-
+<hr/>
 ### Say Hello
 <p align="center">  
 <a href="https://dev.to/lurner4ever" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="lurner4ever" height="30" width="30" /></a>
