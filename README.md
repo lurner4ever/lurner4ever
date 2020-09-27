@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lurner4ever</h1>
+<h1 align="center">Hello World 👋, I'm Lurner4ever</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 - 🔭 I’m currently working on **Instagram Clone using React**
@@ -62,19 +62,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="typescript" width="40" height="40"/>
 </p>
 
-#### Tools
-  <p>    
-  
-  
-  
-  
-  
-  
-  
-  
-</p>
-
-<p align="center">
+### Say Hello
+<p align="center">  
 <a href="https://dev.to/lurner4ever" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="lurner4ever" height="30" width="30" /></a>
 <a href="https://twitter.com/lurner4ever" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lurner4ever" height="30" width="30" /></a>
 <a href="https://instagram.com/lurner4ever" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lurner4ever" height="30" width="30" /></a>
