@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm Lurner4ever</h1>
+<h1 align="center">Hello World 👋, <br/> I'm Lurner4ever</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 - 🔭 I’m currently working on **Instagram Clone using React**
